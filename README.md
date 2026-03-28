@@ -5,7 +5,7 @@ Welcome to my immersive 3D portfolio website! This project showcases my skills, 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/99056f5f-76a4-4556-92db-62829296538e" />
 
 
-![Portfolio Preview][(https://dinesh-srivastava-portfolio-4dek.vercel.app)]
+https://dinesh-srivastava-portfolio-4dek.vercel.app
 
 
 ## ✨ Features
