@@ -2,7 +2,8 @@
 
 Welcome to my immersive 3D portfolio website! This project showcases my skills, projects, and creativity through stunning 3D animations, interactive elements, and smooth motion design. Experience a cosmic journey through space-themed design with cutting-edge web technologies.
 
-![Portfolio Preview]([https://github.com/Jayant-1/3D-Portfolio/blob/main/public/assets/nav-link-previews/home.png?raw=true](https://github.com/dsrivastava80))
+![Portfolio Preview](https://dinesh-srivastava-portfolio-4dek.vercel.app)
+))
 
 
 ## ✨ Features
