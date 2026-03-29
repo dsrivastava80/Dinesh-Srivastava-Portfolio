@@ -129,8 +129,15 @@ const Navbar = () => {
       transition={{ duration: 0.8 }}
     >
       <div className="flex items-center justify-between max-w-8xl my-2 mx-4 relative">
-        <a href="#hero" className="flex mx-6 items-center justify-center">
-          <span className="text-white text-[22px] font-bold tracking-widest whitespace-nowrap">
+        <a 
+          href="#hero" 
+          className="flex mx-6 items-center justify-center gap-3"
+          onClick={() => {
+            window.scrollTo(0, 0);
+          }}
+        >
+          <img src={logo} alt="logo" className="w-12 h-12 object-contain" />
+          <span className="text-white text-[22px] font-bold tracking-widest whitespace-nowrap hidden sm:block">
             Dinesh <span className="text-cyan-500 font-medium">| IT Leader</span>
           </span>
         </a>
